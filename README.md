@@ -1,6 +1,6 @@
 # Pokémon Landing Page
 
-A modern Pokémon-inspired landing page UI built with clean design principles and responsive layout.
+A modern Pokémon-inspired landing page UI built with clean and modern design principles
 
 ## 🚀 Features
 
